@@ -34,14 +34,24 @@ Integration: The trained models are integrated into a streamlit application, whi
 
 Signup and Login Page:
 <img width="1905" height="644" alt="image" src="https://github.com/user-attachments/assets/0c60ddfc-c52d-45d7-9b43-a026a70c55f3" />
+
+
 Home Page showing trending Products:
 <img width="1906" height="890" alt="image" src="https://github.com/user-attachments/assets/d134aaa4-bba7-437f-9ce8-17f99fc80261" />
+
+
 Searching for product:
 <img width="1904" height="893" alt="image" src="https://github.com/user-attachments/assets/9c1c87b3-b70b-4700-aa7b-364b7d5514e5" />
+
+
 Adding Product to Cart:
 <img width="1101" height="537" alt="image" src="https://github.com/user-attachments/assets/8f041b5e-2033-4839-9ddf-6237d68ccf69" />
+
+
 Editing cart:
 <img width="1111" height="807" alt="image" src="https://github.com/user-attachments/assets/a1084b9f-752d-4d85-b518-fbcfb7aaba26" />
+
+
 Recommending products based on Search:
 <img width="1064" height="793" alt="image" src="https://github.com/user-attachments/assets/c6aea724-f94c-4d27-9a56-3e93a4bbb33b" />
 
