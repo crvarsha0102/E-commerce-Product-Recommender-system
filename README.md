@@ -31,7 +31,5 @@ How It Works
 The system is built on a simple workflow:
 
 Data: E-commerce data (product details, user ratings, interactions) is collected and preprocessed.
-
 Models: The data is used to train different machine learning models.
-
 Integration: The trained models are integrated into a Flask application, which serves recommendations to users on the website.
