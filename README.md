@@ -25,7 +25,6 @@ Install dependencies:
 
 pip install -r requirements.txt
 Run the Flask application:
-
 python app.py
 How It Works
 The system is built on a simple workflow:
@@ -33,3 +32,8 @@ The system is built on a simple workflow:
 Data: E-commerce data (product details, user ratings, interactions) is collected and preprocessed.
 Models: The data is used to train different machine learning models.
 Integration: The trained models are integrated into a Flask application, which serves recommendations to users on the website.
+
+
+
+<img width="1906" height="890" alt="image" src="https://github.com/user-attachments/assets/d134aaa4-bba7-437f-9ce8-17f99fc80261" />
+
