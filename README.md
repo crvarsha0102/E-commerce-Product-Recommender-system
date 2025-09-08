@@ -2,29 +2,21 @@ Building an E-commerce Recommendation System with Machine Learning and Flask
 
 This project outlines how to build a personalized e-commerce recommendation system using Python, Flask, and various machine learning techniques. The goal is to enhance the user experience on an e-commerce platform by providing tailored product suggestions, thereby increasing user engagement and sales.
 
-Features
+Features:
 Personalized Recommendations: Delivers product suggestions based on individual user preferences and behavior.
-
 Multiple Recommendation Models: Implements and combines different recommendation approaches:
-
-Content-based Filtering: Recommends items with similar attributes.
-
-Collaborative Filtering: Uses user-item interaction data to find patterns and make predictions.
-
-Hybrid & Multi-model Approaches: Combines the above methods for more accurate and diverse results.
-
+1) Content-based Filtering: Recommends items with similar attributes.
+2) Collaborative Filtering: Uses user-item interaction data to find patterns and make predictions.
+3) Hybrid & Multi-model Approaches: Combines the above methods for more accurate and diverse results.
 Flask Web Application: Provides a user-friendly web interface for browsing products, viewing recommendations, and interacting with the system.
-
 Scalable Architecture: Built with Python libraries like pandas, scikit-learn, and TensorFlow for efficient data processing and model training.
 
-Technologies Used
+Technologies Used:
 Flask: The web framework for the e-commerce application.
-
 Python: The core programming language.
-
 Machine Learning Libraries: pandas, numpy, scikit-learn, TensorFlow.
 
-Getting Started
+Getting Started:
 Clone the repository:
 
 git clone [repository-url]
